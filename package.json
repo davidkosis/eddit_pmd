@@ -6,7 +6,7 @@
   "scripts": {
     "start": "pm2 start . --attach --name eddit-pmd"
   },
-  "author": "Your Name",
+  "author": "E-D-D-I-T",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "git+https://github.com/A-d-i-t-h-y-a-n/Baileys.js.git",
